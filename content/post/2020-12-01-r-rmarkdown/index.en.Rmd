@@ -1,7 +1,12 @@
 ---
+
+# Activate this widget? true/false
+active: FALSE
+
+
 title: "Stone CV"
 author: "Tong Su"
-date: '2020-12-01T21:13:14-05:00'
+date: '2005-12-01T21:13:14-05:00'
 categories: R
 tags:
 - R Markdown
