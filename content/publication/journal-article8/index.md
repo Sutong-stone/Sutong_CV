@@ -6,7 +6,7 @@ author_notes:
 authors:
 - Boqiang Lin
 - Tong Su
-date: "2022-05-01T00:00:00Z"
+date: "2022-02-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.irfa.2022.102063"
 featured: false
 image:
@@ -18,7 +18,7 @@ publication: '*International Review of Financial Analysis* SSCI-Q1-ABS3*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-05-01T00:00:00"
+publishDate: "2022-02-01T00:00:00"
 slides: example
 summary: This paper investigates the green bond issuance issue based on the Chinese context. The choices between green and conventional bonds could be attributed to the financing demand and the preference of issuers.The factors related to bonds’ specific characteristics, issuers’ financial features, and external ambience conditions might play significant roles in this decision process.
 tags:
