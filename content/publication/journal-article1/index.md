@@ -23,7 +23,7 @@ slides: example
 summary: This paper investigates the green bond issuance issue based on the Chinese context. The choices between green and conventional bonds could be attributed to the financing demand and the preference of issuers.The factors related to bonds’ specific characteristics, issuers’ financial features, and external ambience conditions might play significant roles in this decision process.
 tags:
 - Source Themes
-title: "Green bond vs conventional bond: Outline the rationale behind issuance choices in China"
+title: "Green bond vs conventional bond Outline the rationale behind issuance choices in China"
 url_code: 
 url_dataset: '/data/data.zip'
 url_pdf: '/uploads/IRFAGVSC.pdf'
