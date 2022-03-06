@@ -1,6 +1,5 @@
 ---
-bio: My research interests include green finance, energy & environmental economics and demographic studies.
-  matter.
+bio: My research interests include green finance, energy & environmental economics and demographic studies. Hope your contact at :suyaozhicug@sina.com.
 education:
   courses:
   - course: PhD Candidate in Business Administration (Energy Financial Management)
@@ -45,7 +44,7 @@ title: 苏彤(Tong Su)
 ---
 
 
-苏彤(Tong Su) is a Ph.D. candidate (Major in Technical Economics and Management) from Xiamen University in China. In 2018, He got a bachelor's degree from China University of Geosciences (Wuhan) and gain the qualification of postgraduate recommendation. In 2020, He started the doctoral study through the master-doctor combined program. Now, he concentrates on the green financial area, especially the green bond. His several papers have been published by SSCI ABS 3* or ABS 2* or JCR-Q1 journals (Energy Economics, International Review of Financial Analysis, International Review of Economics and Finance, Research in International Business and Finance) and got more than 60 citations (google scholar). He has also published some papers in CSSCI journals like Economic Research Journal (in Chinese). Welcome to any scholar questions and communication, and thanks for any job recommendations.
+苏彤(Tong Su) is a Ph.D. candidate (Major in Technical Economics and Management) from Xiamen University in China. In 2018, He got a bachelor's degree from China University of Geosciences (Wuhan) and gain the qualification of postgraduate recommendation. In 2020, He started the doctoral study through the master-doctor combined program. Now, he concentrates on the green financial area, especially the green bond. His several papers have been published by SSCI ABS 3* or ABS 2* or JCR-Q1 journals (Energy Economics, International Review of Financial Analysis, International Review of Economics and Finance, Research in International Business and Finance) and have got more than 100 citations (google scholar). He has also published some papers in CSSCI journals like Economic Research Journal (in Chinese). Welcome to any scholar questions and communication, and thanks for any job recommendations.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
